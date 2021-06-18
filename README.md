@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on software farms in Bangladesh.
 - 📫 Reach me on: <br>
 -->> Phone: <a href="tel:+8801622165822"><b>+8801622165822</b></a><br>
--->> Facebook: https://www.facebook.com/mahmodul.kabir.35/ <br>
+-->> Facebook: www.facebook.com/mahmodul.kabir.35/ <br>
+-->> LinkedIn: www.linkedin.com/in/mohammad-mahmodul-kabir-ratul/ <br>
 -->> E-mail: kratul60@gmail.com
 
 <!---
