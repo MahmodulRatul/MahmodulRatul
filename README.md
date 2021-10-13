@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <h3 style="color:red">Mohammad Mahmodul Kabir Ratul</h3>Studying BSc Engineering in Computer Science and Engineering at American International University-Bangladesh (www.aiub.edu).
+- 👋 Hi, I’m <h3 color:red">Mohammad Mahmodul Kabir Ratul</h3>Studying BSc Engineering in Computer Science and Engineering at American International University-Bangladesh (www.aiub.edu).
 - 👀 I’m interested in Web development, .Net development , Artificial Intelligence and Robotics.
 - 🌱 I’m currently learning Computer Vision and Pattern Recognition, Operating Systems.
 - 💞️ I’m looking to collaborate on software farms in Bangladesh.
