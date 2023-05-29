@@ -4,8 +4,8 @@ I’m currently working as a Trainee Software Engineer in <a href="www.data-edge
 - 🌱 I’m currently learning CCNA, Computer Vision and Pattern Recognition, Operating Systems.
 - 💞️ I’m looking to collaborate on software farms or in teaching.
 - 📫 Reach me on:
-<span style=""> <a href="mailto:kratul60@gmail.com"> E-Mail </a></span>
-<span style=""> <a href="https://www.facebook.com/mahmodul.kabir.35/"> Facebook </a></span>
+<span style=""> <a href="mailto:kratul60@gmail.com">E-Mail</a> || </span>
+<span style=""> <a href="https://www.facebook.com/mahmodul.kabir.35/">Facebook</a> || </span>
 <span style=""> <a href="https://www.linkedin.com/in/mohammad-mahmodul-kabir-ratul"> LinkedIn </a></span>
 
 <!---
