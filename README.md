@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning CCNA, Computer Vision and Pattern Recognition, Operating Systems.
 - 💞️ I’m looking to collaborate on software farms or in teaching.
 - 📫 Reach me on: <br>
-<span style = ""> <a href="tel:+8801622165822">+8801622165822</a></span><br>
-<span style = ""> <a href="mailto:kratul60@gmail.com">kratul60@gmail.com</a></span><br>
-<span style = "background-color: white; color: black; border: 2px solid #4CAF50;"> <a href="https://www.facebook.com/mahmodul.kabir.35/"> Facebook </a></span><br>
-<span style = "background-color: white; color: black; border: 2px solid #4CAF50;"> <a href="https://www.linkedin.com/in/mohammad-mahmodul-kabir-ratul/"> LinkedIn </a></span><br>
-<span style = "background-color: white; color: black; border: 2px solid #4CAF50;"> <a href="mailto:kratul60@gmail.com"> E-Mail </a></span>
+<span style=""> <a href="tel:+8801622165822">ph</a></span><br>
+<span style=""> <a href="https://www.facebook.com/mahmodul.kabir.35/"> Facebook </a></span><br>
+<span style=""> <a href="https://www.linkedin.com/in/mohammad-mahmodul-kabir-ratul/"> LinkedIn </a></span><br>
+<span style=""> <a href="mailto:kratul60@gmail.com"> E-Mail </a></span>
 
 <!---
 MahmodulRatul/MahmodulRatul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
